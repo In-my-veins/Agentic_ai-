@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.kilo/
+node_modules/
+dist/
+build/
+Vector_db/chroma_db/
+*.py[cod]
